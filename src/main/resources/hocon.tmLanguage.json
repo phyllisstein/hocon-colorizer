@@ -1,5 +1,5 @@
 {
-  "fileTypes": ["conf"],
+  "fileTypes": [],
   "name": "HOCON",
   "foldingStartMarker": "[{\\[]\\s*$",
   "foldingStopMarker": "^\\s*[}\\]]",
